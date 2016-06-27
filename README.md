@@ -5,7 +5,7 @@
 
 Submitted by: **Siddhata Patil**
 
-Time spent: **9** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
