@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] Allows you to put a star to the list to prioritize it, which automatically takes the list to the top of all the other lists.
-* [ ] Also, if there is no priority, your latest list is the top of the list. 
+* [ ] Also, if there is no priority, your latest list is at the top. 
 * [ ] Last but not the least, it gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list. 
 
 ## Video Walkthrough 
