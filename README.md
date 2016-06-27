@@ -13,4 +13,4 @@ http://www.wired.com/2016/03/best-to-do-list-app/
 ######My app does exactly what a to do list is supposed to do. It takes notes, with a heading for each list.
 ######Allows you to put a star to the list to prioritize it, which automatically takes the list to the top of all the other lists.
 ######Also, if there is no priority, your latest list is the top of the list.
-######Last but not the least, it gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task. 
+######Last but not the least, it gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list.
