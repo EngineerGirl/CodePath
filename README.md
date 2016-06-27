@@ -46,15 +46,13 @@ Before starting to make this app, I referred this [Article](http://www.wired.com
 
 ## Application Configuration setting
 
-Android SDK Version: with Eclipse IDE
+Android SDK Version: Eclipse IDE for Android Developers	Version: 8.0.2.201202111925
 
-Java SDK version:
+Minimum Required SDK: API 16: Android 4.1 (Jelly Bean)
 
-JRE Version:
+Target SDK: API 21: Android 4.X (L Preview)
 
-Minimum Android version: 
-
-Maximum Android version:
+Project Build Target: Android 5.0
 
 ## License
 
