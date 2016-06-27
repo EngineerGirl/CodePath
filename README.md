@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Before starting to make this app, I referred this [Article](http://www.wired.com/2016/03/best-to-do-list-app/), which helped me plan and design my Priorityeee App.
 
 
-**Problem**:I wasted almost an hour because my .R (generated file) got lost.
+**Problem**:I spent almost an hour trying to figure out where exactly did R.java (generated file) got vanished from my working project.
 **Solution**: I started a new application project and copied all my files there.
 
 ## License
