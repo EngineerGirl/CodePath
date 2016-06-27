@@ -12,20 +12,20 @@ Time spent: **9** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
-* [ ] User can **persist todo items** and retrieve them properly on app restart
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
+* [x] User can **persist todo items** and retrieve them properly on app restart
 
 The following **optional** features are implemented:
 
-* [ ] Add support for selecting the priority of each todo item (and display in listview item)
-* [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
+* [x] Add support for selecting the priority of each todo item (and display in listview item)
+* [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented:
 
-* [ ] Allows you to put a star to the list to prioritize it, which automatically takes the list to the top of all the other lists.
-* [ ] Also, if there is no priority, your latest list is at the top. 
-* [ ] Last but not the least, it gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list. 
+* [x] Allows you to put a star to the list to prioritize it, which automatically takes the list to the top of all the other lists.
+* [x] Also, if there is no priority, your latest list is at the top. 
+* [x] Last but not the least, it gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list. 
 
 ## Video Walkthrough 
 
