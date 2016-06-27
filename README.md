@@ -48,7 +48,7 @@ Before starting to make this app, I referred this [Article](http://www.wired.com
 
 ## License
 
-    Copyright [2016] [Siddhata Patil]
+    Copyright 2016 Siddhata Patil
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
