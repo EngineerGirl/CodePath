@@ -37,15 +37,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Before starting to make this app, I referred the article below, which helped me plan and design my Priorityeee App.
-[Article](http://www.wired.com/2016/03/best-to-do-list-app/)
+Before starting to make this app, I referred this [Article](http://www.wired.com/2016/03/best-to-do-list-app/), which helped me plan and design my Priorityeee App.
+
 
 **Problem**:I wasted almost an hour because my .R (generated file) got lost.
 **Solution**: I started a new application project and copied all my files there.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Siddhata Patil]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
