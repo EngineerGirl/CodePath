@@ -1,6 +1,8 @@
 # CodePath
 
-# Pre-work - Priorityeee <img src='https://github.com/EngineerGirl/CodePath/blob/master/ic_launcher.png'width="200" height="200" />
+<img src='https://github.com/EngineerGirl/CodePath/blob/master/ic_launcher.png'width="200" height="200" />
+
+# Pre-work - Priorityeee 
 **Priorityeee** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Siddhata Patil**
